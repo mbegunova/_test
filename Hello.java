@@ -4,6 +4,6 @@ public class Hello{
           
         System.out.print("Hello world!");
 		
-	System.out.print("A");
+	System.out.print("B");
     }
 }
